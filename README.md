@@ -6,6 +6,8 @@ Aplicativo para postos do Programa Acessa SP.
 ## Site e Download
 ### [mv.projetorgm.com.br/](http://mv.projetorgm.com.br/)
 
+## Novo Endereço (memória)
+### [projetomonitorvirtual.wordpress.com/](https://projetomonitorvirtual.wordpress.com/)
 
 ## Código
 O fonte virá aqui em breve :) 
