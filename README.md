@@ -2,14 +2,8 @@
 Aplicativo para postos do Programa Acessa SP. 
 > Anos de trabalho e dedicação convertidos em um aplicativo para você
 
-
-## Site e Download
-### [mv.projetorgm.com.br/](http://mv.projetorgm.com.br/)
-
 ## Novo Endereço (memória)
 ### [projetomonitorvirtual.wordpress.com/](https://projetomonitorvirtual.wordpress.com/detalhes/)
-
-
 
 ## Código
 O fonte virá aqui em breve :) 
